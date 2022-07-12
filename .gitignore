@@ -1,0 +1,3 @@
+# masquer le fichier .env et le dossier node_modules
+.env
+/node_modules
